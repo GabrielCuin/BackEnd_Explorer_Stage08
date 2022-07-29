@@ -7,6 +7,7 @@
 - SQLite
 
 ## To run the project
+    npm install
     npm run migrate
     npm run dev
 or
